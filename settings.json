@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "nikku8578",
+    "password": "sachin12",
     "type": "offline"
   },
   "server": {
@@ -18,8 +18,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "Perzuu"
+      "enabled": true,
+      "password": "sachin12"
     },
     "anti-afk": {
       "enabled": true,
